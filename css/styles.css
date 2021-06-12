@@ -16,7 +16,8 @@ a {
   text-decoration: none; }
 
 ul {
-  margin: 0; }
+  margin: 0;
+  padding: 0; }
   ul li {
     list-style: none; }
 
@@ -76,8 +77,7 @@ ul {
 
 .search-form:hover {
   width: 100%;
-  cursor: pointer;
-  background-color: #fff; }
+  cursor: pointer; }
 
 .search-form:hover input {
   display: block; }
